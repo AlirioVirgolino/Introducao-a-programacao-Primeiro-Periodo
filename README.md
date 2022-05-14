@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AlirioVirgolino
-- 👀 I’m interested in programação, IA, robotica e biotecnologias
-- 🌱 I’m currently learning sistemas para Internet 
-- 💞️ I’m looking to collaborate on saúde e tecnologia
-- 📫 How to reach me Aliriovirgolino@hotmail.com 
+- 👋 Oi, me chamo @AlirioVirgolino
+- 👀 Estou interessado em programação, IA, robotica e biotecnologias
+- 🌱 Atualmente estudo sobre sistemas para Internet 
+- 💞️ Procuro colaborar para saúde e tecnologia
+- 📫 Meu e-mail: Aliriovirgolino@hotmail.com 
 <div align="center">
   <a href="https://github.com/aliriovirgolino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliriovirgolino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
